@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm a third-year CS student at Capital University, a Linux and mathematics enthusiast, and a son of lovely parents.
+I'm a third-year CS student at Capital University, a Linux and Mathematics enthusiast, and a son of lovely parents.
 
 ---
 
