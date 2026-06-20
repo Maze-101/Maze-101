@@ -27,8 +27,6 @@ I'm a third-year CS student at Capital University, a Linux and Mathematics enthu
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40" />
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" />
-    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
     &nbsp; -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
