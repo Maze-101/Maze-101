@@ -1,4 +1,4 @@
-# 🌘 Shikigami
+# Mazen, or Mazin ?
 
 **`Digital Craftsman`**
 
