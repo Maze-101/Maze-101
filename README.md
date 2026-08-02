@@ -10,7 +10,7 @@ I'm a third-year AI student at Capital University, a mathematics enthusiast, and
 
 *  Deepening my foundational theory through Coursera's **Mathematics for Machine Learning** specialization.
 *  Taking my first steps into backend development with **FastAPI**.
-*  Sharpening problem-solving skills via **competitive programming**.
+*  Sharpening my problem-solving skills via **competitive programming**.
 
 ---
 
