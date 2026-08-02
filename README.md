@@ -2,14 +2,6 @@
 
 **`Digital Craftsman`**
 
-<p align="left">
-  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazen.kassem.dev@gmail.com)
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mznmohamed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
-  </a>
-</p>
-
 I'm a third-year AI student at Capital University, a mathematics enthusiast, and a son of a lovely father.
 
 ---
