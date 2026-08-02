@@ -3,11 +3,9 @@
 **`Digital Craftsman`**
 
 <p align="left">
-  <a href="mailto:mazen.kassem.dev@gmail.com" title="mazen.kassem.dev@gmail.com">    
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" />
-  </a>
+  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazen.kassem.dev@gmail.com)
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-profile/">
+  <a href="https://www.linkedin.com/in/mznmohamed/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
   </a>
 </p>
