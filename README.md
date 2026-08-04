@@ -8,8 +8,7 @@ I'm a third-year AI student at Capital University, a mathematics enthusiast, and
 
 ## Current Focus
 
-*  Deepening my foundational theory through Coursera's **Mathematics for Machine Learning** specialization.
-*  Taking my first steps into backend development with **FastAPI**.
+*  Deepening my foundational theory through **Mathematics for Machine Learning** book.
 *  Sharpening my problem-solving skills via **competitive programming**.
 
 ---
