@@ -1,6 +1,6 @@
 # Mazen, or Mazin ?
 
-**`Digital Craftsman`**
+**`ML Engineer under construction`**
 
 I'm a third-year AI student at Capital University, a mathematics enthusiast, and a son of a lovely father.
 
