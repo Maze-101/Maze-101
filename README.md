@@ -1,15 +1,8 @@
 # Mazen, or Mazin ?
 
-**`ML Engineer under construction`**
+**`Backend Engineer under construction`**
 
-I'm a third-year AI student at Capital University, a mathematics enthusiast, and a son of a lovely father.
-
----
-
-## Current Focus
-
-*  Deepening my foundational theory through **Mathematics for Machine Learning** book.
-*  Sharpening my problem-solving skills via **competitive programming**.
+I'm a third-year CS student at Capital University, a mathematics enthusiast, and a son of a lovely father.
 
 ---
 
