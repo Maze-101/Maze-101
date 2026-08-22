@@ -1,6 +1,6 @@
 # Mazen, or Mazin ?
 
-**`Backend Engineer under construction`**
+**`Digital Craftsman`**
 
 I'm a third-year CS student at Capital University, a mathematics enthusiast, and a son of a lovely father.
 
