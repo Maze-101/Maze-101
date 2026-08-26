@@ -1,7 +1,5 @@
 # Mazen
 
----
-
 A programmer who loves math.
 
 ---
