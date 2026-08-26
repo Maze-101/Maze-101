@@ -1,8 +1,8 @@
-# Mazen, or Mazin ?
+# Mazen
 
-**`Digital Craftsman`**
+---
 
-I'm a third-year CS student at Capital University, a mathematics enthusiast, and a son of a lovely father.
+A programmer who loves math.
 
 ---
 
