@@ -17,12 +17,12 @@ A programmer who loves math.
     &nbsp;
 </p>
 
-<!-- ## Libraries and Frameworks
+## Libraries and Frameworks
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
     &nbsp;
-</p> -->
+</p>
 
 ## Tools and OS
 
