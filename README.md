@@ -1,6 +1,6 @@
 # Mazen
 
-whoami: I'm a third year CS student passionate about competitive programming, backend systems, and system design
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum turpis ut ligula tincidunt mattis. Suspendisse ullamcorper massa sollicitudin magna pretium finibus. Vivamus tristique, libero non vehicula hendrerit, ex purus.
 
 ---
 
