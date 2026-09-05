@@ -2,8 +2,6 @@
 
 whoami: I'm a third year CS student passionate about competitive programming, backend systems, and system design
 
-goal: Make my father proud
-
 ---
 
 ## Languages
