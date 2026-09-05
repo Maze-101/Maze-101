@@ -1,6 +1,8 @@
 # Mazen
 
-A programmer who loves math.
+whoami: i'm a third year CS student passionate about competitive programming, backend systems, and system design
+
+goal: make my father proud
 
 ---
 
