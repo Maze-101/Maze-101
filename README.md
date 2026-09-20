@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum turpis
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,java,typescript" />
   </a>
 </p>
 
