@@ -14,11 +14,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum turpis
 
 ## Libraries and Frameworks
 
+<!--
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=" />
     </a>
 </p>
+-->
 
 ## Tools and OS
 
