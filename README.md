@@ -1,4 +1,4 @@
-<h1 align="center">مازن</h1>
+<h1 align="center">مازن محمد عبدالمنعم محمد قاسم علي جودة أمين زين الدين الشريف</h1>
 
 <h3 align="center">
 3rd Year CS Student | Competitive Programmer
