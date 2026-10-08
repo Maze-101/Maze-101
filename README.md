@@ -1,33 +1,27 @@
-# Mazen - AKA shikimiki
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum turpis ut ligula tincidunt mattis. Suspendisse ullamcorper massa sollicitudin magna pretium finibus. Vivamus tristique, libero non vehicula hendrerit, ex purus.
+<h1 align="center">Mazen, AKA shikimiki</h1>
 
 ---
 
-## Languages
+<h3 align="center">
+3rd Year CS Student | Competitive Programmer
+</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java" />
   </a>
 </p>
 
-## Libraries and Frameworks
-
 <!--
-<p align="left">
+<p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=" />
     </a>
 </p>
 -->
 
-## Tools and OS
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,git" />
-    </a>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=b7awel&theme=dark" />
 </p>
 
 ---
