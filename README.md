@@ -1,4 +1,4 @@
-# Mazen ( friends call me shikimiki )
+# Mazen - AKA shikimiki
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum turpis ut ligula tincidunt mattis. Suspendisse ullamcorper massa sollicitudin magna pretium finibus. Vivamus tristique, libero non vehicula hendrerit, ex purus.
 
