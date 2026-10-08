@@ -1,4 +1,4 @@
-<h1 align="center">Mazen, AKA shikimiki</h1>
+<h1 align="center">Mazen</h1>
 
 <h3 align="center">
 3rd Year CS Student | Competitive Programmer
