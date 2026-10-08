@@ -1,7 +1,5 @@
 <h1 align="center">Mazen, AKA shikimiki</h1>
 
----
-
 <h3 align="center">
 3rd Year CS Student | Competitive Programmer
 </h3>
@@ -12,13 +10,11 @@
   </a>
 </p>
 
-<!--
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=" />
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git" />
+  </a>
 </p>
--->
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=b7awel&theme=dark" />
